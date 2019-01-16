@@ -1,5 +1,5 @@
 {
-  "Authors": [],
+  "Authors": ["Tim Coalson", "Matt Glasser", "Mike Harms", "David Van Essen"],
   "Acknowledgements": "Curated and added to TemplateFlow by Esteban O",
   "BIDSVersion": "1.1.0",
   "HowToAcknowledge": "",

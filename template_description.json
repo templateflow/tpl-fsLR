@@ -6,7 +6,7 @@
   "Identifier": "fsLR",
   "License": "See LICENSE file",
   "Name": "HCP Pipelines' fsLR template",
-  "ReferencesAndLinks": [],
+  "ReferencesAndLinks": ["https://doi.org/10.1093/cercor/bhr291"],
   "TemplateFlowVersion": "1.0.0",
   "res": {
     "01": {

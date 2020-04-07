@@ -1,5 +1,4 @@
 {
-  "Acknowledgements": "Curated and added to TemplateFlow by Esteban O",
   "Authors": [
     "Tim Coalson",
     "Matt Glasser",
@@ -7,7 +6,9 @@
     "David Van Essen"
   ],
   "BIDSVersion": "1.1.0",
-  "HowToAcknowledge": "Reference the following entries from the ReferencesAndLinks field: {1}",
+  "Curators": [
+    "Esteban O"
+  ],
   "Identifier": "fsLR",
   "License": "See LICENSE file",
   "Name": "HCP Pipelines' fsLR template",

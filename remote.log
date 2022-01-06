@@ -1,0 +1,4 @@
+171254a4-6c52-4e4b-95fe-ae94848c3734 autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-fsLR/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1641385274.560346s
+b6f9c9fd-394c-488a-939b-ce99cbfc9f61 bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-fsLR/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1641381135.723141s
+c04eb54b-4b4e-5755-8436-866b043170fa autoenable=true encryption=none externaltype=datalad-archives name=datalad-archives type=external uuid=c04eb54b-4b4e-5755-8436-866b043170fa timestamp=1547603613.568013378s
+c4e66a91-bb14-41a2-9019-649787620cef autoenable=true location=https://gin.g-node.org/templateflow/tpl-fsLR name=gin type=git timestamp=1636840165.225375s
